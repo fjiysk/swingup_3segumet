@@ -1,3 +1,3 @@
 # swingup_3segumet
 
-# you need MATLAB and optimization toolbox
+ you need MATLAB and optimization toolbox
